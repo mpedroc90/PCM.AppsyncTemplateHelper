@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace AppsyncHelper.Commands
+namespace Pcm.Aws.Appsync.TemplateHelper.Commands
 {
     public class CommandBag
     {

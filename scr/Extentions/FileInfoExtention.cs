@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace AppsyncHelper
+namespace Pcm.Aws.Appsync.TemplateHelper
 {
     public static class FileInfoExtention
     {

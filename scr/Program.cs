@@ -1,10 +1,7 @@
-﻿using System;
-
-using System.IO;
-using System.Text;
+﻿using System.IO;
 using System.Text.RegularExpressions;
 
-namespace AppsyncHelper
+namespace Pcm.Aws.Appsync.TemplateHelper
 {
     class Program
     {

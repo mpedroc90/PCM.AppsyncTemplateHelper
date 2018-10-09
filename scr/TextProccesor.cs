@@ -1,10 +1,10 @@
-﻿using AppsyncHelper.Commands;
+﻿using Pcm.Aws.Appsync.TemplateHelper.Commands;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace AppsyncHelper
+namespace Pcm.Aws.Appsync.TemplateHelper
 {
     public class TextProccesor
     {
