@@ -1,4 +1,4 @@
-﻿namespace AppsyncHelper.Commands
+﻿namespace Pcm.Aws.Appsync.TemplateHelper.Commands
 {
     public abstract class Command
     {

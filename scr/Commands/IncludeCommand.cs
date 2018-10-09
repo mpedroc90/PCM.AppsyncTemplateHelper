@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Linq;
 
-namespace AppsyncHelper.Commands
+namespace Pcm.Aws.Appsync.TemplateHelper.Commands
 {
     public class IncludeCommand : Command
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AppsyncHelper.Commands
+namespace Pcm.Aws.Appsync.TemplateHelper.Commands
 {
     public class CommandContainer
     {

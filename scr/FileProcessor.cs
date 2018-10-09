@@ -1,9 +1,9 @@
-﻿using AppsyncHelper.Commands;
+﻿using Pcm.Aws.Appsync.TemplateHelper.Commands;
 using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace AppsyncHelper
+namespace Pcm.Aws.Appsync.TemplateHelper
 {
     public class FileProcessor
     {
