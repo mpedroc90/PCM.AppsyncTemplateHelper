@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace Pcm.Aws.Appsync.TemplateHelper
 {
-    class Program
+    public class Program
     {
 
         static void  WriteInFile(string file, string text)
@@ -19,7 +19,7 @@ namespace Pcm.Aws.Appsync.TemplateHelper
             }
         }
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var regex = new Regex("^*.(vm|graphql)");
 
